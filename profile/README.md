@@ -1,47 +1,62 @@
+<div align="center">
+
 # Vertesia
 
-## Bring the power of LLMs to your applications
+### Agentic AI for the enterprise
 
-Vertesia facilitates rapid API development atop LLMs to power applications. Bring composition, templating, testing, caching, and visibility to the world of LLMs.
+**Reimagine and automate complex, document-intensive business processes with trusted AI apps and agents that work for you — grounded in your policies and enterprise knowledge.**
 
-As a first step we're solving those key pain points for all developers integrating generative AI into their applications:
+[![Website](https://img.shields.io/badge/Website-vertesiahq.com-2563EB?style=for-the-badge)](https://vertesiahq.com/)
+[![Docs](https://img.shields.io/badge/Docs-docs.vertesiahq.com-0EA5E9?style=for-the-badge)](https://docs.vertesiahq.com/)
+[![Follow on X](https://img.shields.io/badge/Follow-@VertesiaHQ-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/VertesiaHQ)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-D22128?style=for-the-badge)](https://www.apache.org/licenses/LICENSE-2.0)
 
-- Prompts reuse and templating to easily manage and reuse prompts segments accross tasks
+</div>
 
-- Easy model switch to experiment with several models: you can choose any model running on OpenAI, Huggingface, and Replicate and test your tasks
+---
 
-- Observability to see how the tasks are performed
+## What is Vertesia?
 
-- Typescript integration to type all tasks in/out the LLM and ensure a better code quality
-<img height="400" align="center" alt="run-list-details" src="https://github.com/dengenlabs/.github/assets/600863/4f6ce35f-c127-4769-9e6c-85fd2db40045">
+Vertesia is an enterprise platform for designing, deploying, and operating **AI agents and applications**. We help organizations automate complex, document-intensive workflows — grounded in their own policies and enterprise knowledge — with production-level accuracy and **no vendor lock-in**.
 
-## Mission
+- 🤖 **Agents & apps** — Build, test, and ship agentic AI applications in weeks, not quarters.
+- 📄 **Content-aware** — Purpose-built for document-intensive processes, with decades of content-management expertise behind it.
+- 🔌 **Any model** — Run on every leading LLM provider through one interface, and switch freely as the landscape evolves.
+- 🏢 **Enterprise-grade** — Observability, security, and reliability built in for production at scale.
 
-While LLMs like GPT have fundamentally changed our interaction with textual data, we believe in taking a step further. We aim to ensure that every business, regardless of its scale or domain, can leverage the native data processing capabilities of LLMs in the most efficient manner possible.
+## Open source
 
-## What We Do
+We build and maintain open source at the foundation of the platform.
 
-We've built the [API Studio for LLMs](https://docs.vertesiahq.com/), a comprehensive toolkit for designing, deploying, and operating business-specific APIs. Our suite offers a structured, domain-specific approach, shifting from rudimentary, text-based interactions to a world of structured, efficient, and integrated content processing.
+| Repository | Description |
+| --- | --- |
+| [**llumiverse**](https://github.com/vertesia/llumiverse) | Universal connector to LLMs for Node.js &amp; Bun — one interface across OpenAI, Anthropic, Google, Bedrock, Mistral, and more. |
+| [**llumiverse-go**](https://github.com/vertesia/llumiverse-go) | A Go implementation of LLumiverse. |
+| [**composableai**](https://github.com/vertesia/composableai) | The Vertesia AI SDK and tools. |
+| [**examples**](https://github.com/vertesia/examples) | Usage examples for building on the Vertesia Platform. |
 
-Our Core Offerings:
+## SDKs &amp; clients
 
-- **Interaction Designer**: Crafting intuitive prompt templates and robust data schemas.
+Connect your applications to the Vertesia Platform in the language of your choice:
 
-- **Prompt Assistance**: Using LLMs to enhance prompt design and offer improvement suggestions.
+| Language | Package / Repository |
+| --- | --- |
+| **TypeScript / JavaScript** | [`@vertesia/client`](https://github.com/vertesia/composableai) · [`@vertesia/cli`](https://github.com/vertesia/composableai) |
+| **Python** | [vertesia-client-python](https://github.com/vertesia/vertesia-client-python) |
+| **Java** | [vertesia-client-java](https://github.com/vertesia/vertesia-client-java) |
+| **Go** | [vertesia-client-go](https://github.com/vertesia/vertesia-client-go) |
 
-- **API Service**: Seamlessly integrating LLMs into your applications and business processes.
+## Get started
 
-- **Cache Service**: Ensuring optimal performance by intelligently storing and reusing Interaction Results.
+- 📖 **Documentation** — [docs.vertesiahq.com](https://docs.vertesiahq.com/)
+- 🧪 **Examples** — [github.com/vertesia/examples](https://github.com/vertesia/examples)
+- 🌐 **Website** — [vertesiahq.com](https://vertesiahq.com/)
 
-- **Collaboration & Optimization Tools**: From sharing prompt segments to monitoring performance, we have developers covered.
-<p>
-<img height="300" hspace="10" alt="run-list-details" src="https://github.com/dengenlabs/.github/assets/600863/19d4503d-abb4-4b7b-90d9-1830104d98ee">
-<img height="300" hspace="10" alt="openai-env-models" src="https://github.com/dengenlabs/.github/assets/600863/80feec5e-856f-4fc4-9b99-7046b295d35a">
-<img height="300" hspace="10" alt="interaction-playground-generate-story com" src="https://github.com/dengenlabs/.github/assets/600863/0da69cc6-28b0-4761-86aa-6b55a9141bc0">
-</p>
+## Connect
 
-## Learn more
+- Follow [**@VertesiaHQ**](https://x.com/VertesiaHQ) on X
+- Reach us at [contact@vertesiahq.com](mailto:contact@vertesiahq.com)
 
-- [Vertesia Website](https://vertesiahq.com/)
-- [Documentation Website](https://docs.vertesiahq.com/)
-- [GitHub Repository](https://github.com/vertesia/)
+<div align="center">
+<sub>Built for the enterprise. Powered by open source.</sub>
+</div>
