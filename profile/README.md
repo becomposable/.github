@@ -33,7 +33,6 @@ We build and maintain open source at the foundation of the platform.
 | [**llumiverse**](https://github.com/vertesia/llumiverse) | Universal connector to LLMs for Node.js &amp; Bun — one interface across OpenAI, Anthropic, Google, Bedrock, Mistral, and more. |
 | [**llumiverse-go**](https://github.com/vertesia/llumiverse-go) | A Go implementation of LLumiverse. |
 | [**composableai**](https://github.com/vertesia/composableai) | The Vertesia AI SDK and tools. |
-| [**examples**](https://github.com/vertesia/examples) | Usage examples for building on the Vertesia Platform. |
 
 ## SDKs &amp; clients
 
@@ -49,7 +48,6 @@ Connect your applications to the Vertesia Platform in the language of your choic
 ## Get started
 
 - 📖 **Documentation** — [docs.vertesiahq.com](https://docs.vertesiahq.com/)
-- 🧪 **Examples** — [github.com/vertesia/examples](https://github.com/vertesia/examples)
 - 🌐 **Website** — [vertesiahq.com](https://vertesiahq.com/)
 
 ## Connect
